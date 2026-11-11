@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Rushikesh Surose 👋</h1>
+<h1 align="center">Hey, I'm Rushikesh Surose </h1>
 <h3 align="center">Computer Engineering Student | Developer | Problem Solver</h3>
 
 <p align="center">
@@ -8,27 +8,27 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 Computer Engineering Major
-- 💻 Interested in Software Development and Problem Solving
-- 🧠 Practicing Data Structures & Algorithms in C++
-- 🔭 Working on projects involving Python, AI and Web Development
+-  Computer Engineering Major
+-  Software Development and Problem Solving
+-  Upskilling in Data Structures & Algorithms in C++
+-  Working on projects involving C++ , Python, AI and Web Development
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Languages:** C++, Python, JavaScript
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Tools:** Git, GitHub, VS Code
 - **Interests:** DSA, AI, Automation, Web Development , System Design
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - **DropLink** – Temporary bidirectional PC-to-phone file transfer application (currently working).
 - **Document Analyzer** – Local-first AI-powered document intelligence system.
 - **Phishing URL Detector** – Detecting potentially malicious URLs.
 
-### 🌐 Connect With Me
+###  Reach Out me Here If you've something Interesting !!
 
 - LinkedIn: https://www.linkedin.com/in/rushikesh-surose-44a651391/
 - GitHub: https://github.com/iamsaintzeno
@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <i>eat . code . build . repeat🚀</i>
+  <i>eat . code . build . repeat</i>
 </p>
